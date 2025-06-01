@@ -1,0 +1,16 @@
+.std-btn,
+.clickbait-btn {
+    font-family: Helvetica, 'Times New Roman' sans-serif;
+    font-size: 28px;
+}
+
+
+.std-btn {
+    background-color: black;
+    color: ghostwhite;
+}
+
+.clickbait-btn {
+    background-color: yellow;
+    color: #0e0000d5;
+}
