@@ -1,0 +1,21 @@
+
+
+.odd_number{
+    background-color: lightcoral;
+    font-family: sans-serif;
+}
+
+#number2{
+    color: blue;
+    font-size: xx-large;
+}
+
+.odd_number.class_3{
+    font-size: x-large;
+}
+
+#number4{
+    background-color: lightgreen;
+    font-weight: bolder;
+    font-size: x-large;
+}
